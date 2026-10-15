@@ -1,0 +1,6 @@
+{
+  "name": "Sherenza Digital Store",
+  "description": "Curated premium digital products, guides, Notion templates, and creator tools ready for instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
